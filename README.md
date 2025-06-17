@@ -23,12 +23,6 @@ A simple and responsive Weather App that allows users to check the current weath
 
 ---
 
-## 📸 Screenshot
-
-![Weather App Preview](https://via.placeholder.com/400x250.png?text=Weather+App+Preview)
-
----
-
 ## ⚙️ How to Use
 
 1. Clone the repo:
